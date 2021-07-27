@@ -1,2 +1,5 @@
 package main
-func main() {}
+func main() {
+  print("1");
+  print("2");
+}
